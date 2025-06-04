@@ -123,6 +123,9 @@ Copy
 2 
 
 
+---------------------------------------------
+
+
 Problem Özeti ve Analiz
 Koşul:
 S kümesindeki her x, y için:
